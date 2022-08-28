@@ -1,0 +1,19 @@
+.container-fluid{
+    width: 100%;
+   
+    height: 700px;
+    border: 1px solid black;
+}
+
+.I1{
+    width: 1510px;
+    margin-left:-20px;
+    height: 700px;
+}
+
+.pr{
+    color:white;
+    font-size: 100px;
+    font-weight:600;
+    margin-top: -500px;
+}

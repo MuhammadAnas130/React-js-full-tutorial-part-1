@@ -1,0 +1,26 @@
+
+.container-fluid{
+    width: 100%;
+    
+    height: 900px;
+    border: 1px solid black;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.Img1{
+    width: 1500px;
+    height: 700px;
+    margin-left: -15px;
+
+}
+
+.imgh1{
+    color: black;
+    font-size: 100px;
+    margin-top: -500px;
+    font-weight: 600;
+}
+

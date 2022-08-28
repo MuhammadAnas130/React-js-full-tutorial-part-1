@@ -1,0 +1,82 @@
+.nav {
+    background-color: black;
+    height: 70px;
+    width: 100%;
+}
+
+.heading {
+    color: #ffff;
+    font-size: 25px;
+    margin-left: 120px;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.Herohading{
+    position: sticky !important;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+}
+.heading:hover{
+    color: white;
+}
+
+.button {
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    position: relative;
+    left: 90px;
+    border: 2px solid white;
+
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
+
+.man {
+    margin-left: 700px;
+
+}
+
+.Home {
+    color: white;
+    position: relative;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+
+.Service {
+    color: white;
+    position: relative;
+    font-weight: 600;
+    font-size: 20px;
+    left: 40px;
+}
+
+.product {
+    color: white;
+    position: relative;
+    left: 70px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.Home:hover {
+    color: white;
+    
+}
+
+.Service:hover {
+    color: white;
+}
+
+.product:hover {
+    color: white;
+}
+
+

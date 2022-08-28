@@ -1,0 +1,209 @@
+.manclass{
+    position: absolute;
+    width: 100%;
+    background-color:black ;
+    
+}
+
+.manhading{
+    top: 70px;
+    position: relative;
+    color: white;
+}
+
+.hading{
+    margin-left: 590px;
+    color: white;
+    margin-top: 100px;
+}
+
+.lastbutton {
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    font-size: 18px;
+  margin-left: 15px;
+  position: relative;
+  bottom: 2px;
+  height: 50px;
+  width: 150px;
+    border: 2px solid white;
+
+}
+
+.lastbutton:hover {
+    background-color: white;
+    color: black;
+}
+
+.firstinput{
+    margin-left: 543px;
+    width: 250px;
+    height: 50px;
+    border: none;
+    
+    margin-top: 30px;
+    border-radius: none;
+}
+
+.para1{
+    margin-top: 10px;
+    color: white;
+}
+.para1:hover{
+    color: white;
+    text-decoration: none;
+}
+
+
+.para2{
+    color: white;
+    margin-top: 10px;
+}
+.para2:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.firstpara3{
+    margin-top: 20px;
+    color: white;
+}
+
+.firstpara3:hover{
+    color: white;
+    text-decoration: none;
+}
+.firstpara2{
+    margin-top: 20px;
+    color: white;
+}
+.firstpara4{
+    margin-top: 20px;
+    color: white;
+}
+
+.firstpara4:hover{
+    color: white;
+    text-decoration: none;
+}
+.firstpara1{
+    margin-top: 20px;
+    color: white;
+}
+
+.firstpara1:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.firstpara2:hover{
+    color: white;
+    text-decoration: none;
+}
+.para3{
+    color: white;
+    margin-top: 10px;
+
+}
+.para3:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.para4{
+    color: white;
+    margin-top: 10px;
+    
+}
+.para4:hover{
+    color: white;
+    text-decoration: none;
+}
+.maincontainer{
+    margin-top: 70px;
+}
+
+
+
+.c1{
+    background-color:black;
+    margin-left:140px;
+}
+.c2{
+    background-color: black;
+    margin-left: 100px;
+}
+.c3{
+    background-color: black;
+    margin-left: 45px;
+}
+.c4{
+    background-color: black;
+    margin-left: -25px;
+}
+
+.lasthading{
+    color: white;
+    
+    margin-top: 80px;
+    margin-left: 270px;
+}
+
+
+.lastpara{
+    color: white;
+    position: relative;
+    margin-top: -35px;
+    right: 20px;
+}
+.icon1{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: -40px;
+    left: 1000px;
+}   
+
+.icon2{
+    color: white;
+   left: 1040px;
+    top: -40px;
+    font-size: 25px;
+    position: relative;
+}
+.icon3{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    left: 1070px;
+    top: -40px;
+
+}
+
+
+.icon4{
+    color: white;
+    left: 1100px;
+    position: relative;
+    top: -40px;
+    font-size: 25px;
+}
+
+
+.fh1{
+    color: white;
+    font-weight: 600;
+}
+.fh2{
+    color: white;
+    font-weight: 600;
+}
+.fh3{
+    color: white;
+    font-weight: 600;
+}
+.fh4{
+    color: white;
+    font-weight: 600;
+}
